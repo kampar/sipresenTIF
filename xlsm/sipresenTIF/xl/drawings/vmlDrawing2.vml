@@ -1,0 +1,25 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel">
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="7"/>
+ </o:shapelayout><v:shapetype id="_x0000_t201" coordsize="21600,21600" o:spt="201"
+  path="m,l,21600r21600,l21600,xe">
+  <v:stroke joinstyle="miter"/>
+  <v:path shadowok="f" o:extrusionok="f" strokeok="f" fillok="f" o:connecttype="rect"/>
+  <o:lock v:ext="edit" shapetype="t"/>
+ </v:shapetype><v:shape id="Calendar1" o:spid="_x0000_s7170" type="#_x0000_t201"
+  style='position:absolute;margin-left:313.5pt;margin-top:102.75pt;width:299.25pt;
+  height:166.5pt;z-index:1;visibility:hidden' stroked="f" strokecolor="windowText [64]"
+  o:insetmode="auto">
+  <v:imagedata o:relid="rId1" o:title=""/>
+  <x:ClientData ObjectType="Pict">
+   <x:SizeWithCells/>
+   <x:Anchor>
+    6, 0, 5, 1, 15, 39, 17, 11</x:Anchor>
+   <x:AutoLine>False</x:AutoLine>
+   <x:CF>Pict</x:CF>
+   <x:AutoPict/>
+   <x:MapOCX/>
+  </x:ClientData>
+ </v:shape></xml>

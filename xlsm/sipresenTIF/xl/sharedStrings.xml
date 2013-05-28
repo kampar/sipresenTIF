@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="450" uniqueCount="147"><si><t>Fendy lagi buat TA</t></si><si><t>Tabel Orang Keren</t></si><si><t>No.</t></si><si><t>Jazman</t></si><si><t>Keren</t></si><si><t xml:space="preserve">Array
+(
+    [GLOBALS] =&gt; Array
+ *RECURSION*
+    [HTTP_RAW_POST_DATA] =&gt; Nama1=Muhammad&amp;Nama2=Jazman&amp;Nama3=Keren
+    [_POST] =&gt; Array
+        (
+        )
+
+    [_GET] =&gt; Array
+        (
+        )
+
+    [_COOKIE] =&gt; Array
+        (
+        )
+
+    [_FILES] =&gt; Array
+        (
+        )
+
+)
+</t></si><si><t xml:space="preserve">Array
+(
+    [GLOBALS] =&gt; Array
+ *RECURSION*
+    [_POST] =&gt; Array
+        (
+            [Nama1] =&gt; Muhammad
+            [Nama2] =&gt; Jazman
+            [Nama3] =&gt; Keren
+        )
+
+    [_GET] =&gt; Array
+        (
+        )
+
+    [_COOKIE] =&gt; Array
+        (
+        )
+
+    [_FILES] =&gt; Array
+        (
+        )
+
+)
+</t></si><si><t>Fendy</t></si><si><t>D A F T A R    H A D I R    P R A K T I K</t></si><si><t>Mata Kuliah</t></si><si><t xml:space="preserve">    Tahun Akademik</t></si><si><t>KELAS 3 TEKNIK INFORMATIKA SEMESTER 5</t></si><si><t>2012/2013</t></si><si><t xml:space="preserve">         =  Hadir</t></si><si><r><t>T</t></r><r><rPr><b/><sz val="9"/><rFont val="Arial Black"/><family val="2"/></rPr><t xml:space="preserve"> </t></r><r><rPr><sz val="9"/><rFont val="Arial"/><family val="2"/></rPr><t xml:space="preserve"> =  Terlambat</t></r></si><si><r><t xml:space="preserve">     S</t></r><r><rPr><sz val="9"/><rFont val="Arial"/><family val="2"/></rPr><t xml:space="preserve">  =  Sakit</t></r></si><si><r><t xml:space="preserve"> i </t></r><r><rPr><sz val="9"/><rFont val="Arial"/><family val="2"/></rPr><t xml:space="preserve"> =  Ijin</t></r></si><si><r><t xml:space="preserve">          TH</t></r><r><rPr><sz val="9"/><rFont val="Arial"/><family val="2"/></rPr><t xml:space="preserve">  =  Tidak Hadir</t></r></si><si><r><t xml:space="preserve">       (satuan </t></r><r><rPr><b/><sz val="9"/><rFont val="Arial"/><family val="2"/></rPr><t>Jam</t></r><r><rPr><sz val="9"/><rFont val="Arial"/><family val="2"/></rPr><t xml:space="preserve"> dan/atau </t></r><r><rPr><b/><sz val="9"/><rFont val="Arial"/><family val="2"/></rPr><t>Menit</t></r><r><rPr><sz val="9"/><rFont val="Arial"/><family val="2"/></rPr><t>)</t></r></si><si><t>T</t></si><si><t>S</t></si><si><t>i</t></si><si><t>TH</t></si><si><t>Minggu Ke :</t></si><si><t>Tanggal :</t></si><si><t>s/d</t></si><si><t>Bulan :</t></si><si><t>Tahun :</t></si><si><t>Pengajar :</t></si><si><t>No</t></si><si><t>N I M</t></si><si><t>N A M A</t></si><si><t>Keterangan</t></si><si><t>P1</t></si><si><t>P2</t></si><si><t>P3</t></si><si><t>Ade Muttaqin</t></si><si><t>Ahmad Nazri</t></si><si><t>Andri Noviar. Am</t></si><si><t>Cici Herawati</t></si><si><t>Elfina Erma Yanti</t></si><si><t>Hafiz Armen</t></si><si><t>Nur Efendi</t></si><si><t>Nurhayati</t></si><si><t>Paisal Husni Akbar</t></si><si><t>Pebi Sulastri</t></si><si><t>Pirnando</t></si><si><t>Riyan Hidayat</t></si><si><t>Sri Lestari</t></si><si><t>Teguh Mulya</t></si><si><t>Paraf Ketua Program Studi</t></si><si><t>Keterangan :</t></si><si><t>P1 = Praktik Pertama</t></si><si><t>P2 = Praktik Kedua</t></si><si><t>P3 = Praktik Ketiga</t></si><si><t xml:space="preserve">Paraf Dosen  </t></si><si><t>Jhoni Saputra</t></si><si><t>Yurnaldi</t></si><si><t>Syamsul Bahri</t></si><si><t>Syahrul Hamdi</t></si><si><t>Suci Rahmadani</t></si><si><t>Sigit Nurnanda</t></si><si><t>Riskhy Alfauzah</t></si><si><t>Palma Rafel</t></si><si><t>Padila Ainun</t></si><si><t>Nurma Yunita</t></si><si><t>Meldi Andika</t></si><si><t>M. Rafsenjani Salim</t></si><si><t>Ihsan Saputra</t></si><si><t>Idril Pajri</t></si><si><t>Hayatul Fajri</t></si><si><t>Hasti Yuliana Sari</t></si><si><t>Ferri Hardiyan Fadillah</t></si><si><t>Desmeki Rahmad</t></si><si><t>Budi Setiawan</t></si><si><t>Almughni Ihsan</t></si><si><t>Alfikri Ahmad</t></si><si><r><t xml:space="preserve">       (satuan </t></r><r><rPr><b/><sz val="8"/><rFont val="Arial"/><family val="2"/></rPr><t>Jam</t></r><r><rPr><sz val="8"/><rFont val="Arial"/><family val="2"/></rPr><t xml:space="preserve"> dan/atau </t></r><r><rPr><b/><sz val="8"/><rFont val="Arial"/><family val="2"/></rPr><t>Menit</t></r><r><rPr><sz val="8"/><rFont val="Arial"/><family val="2"/></rPr><t>)</t></r></si><si><r><t xml:space="preserve">          TH</t></r><r><rPr><sz val="8"/><rFont val="Arial"/><family val="2"/></rPr><t xml:space="preserve">  =  Tidak Hadir</t></r></si><si><r><t xml:space="preserve"> i </t></r><r><rPr><sz val="8"/><rFont val="Arial"/><family val="2"/></rPr><t xml:space="preserve"> =  Ijin</t></r></si><si><r><t xml:space="preserve">     S</t></r><r><rPr><sz val="8"/><rFont val="Arial"/><family val="2"/></rPr><t xml:space="preserve">  =  Sakit</t></r></si><si><r><t>T</t></r><r><rPr><b/><sz val="8"/><rFont val="Arial Black"/><family val="2"/></rPr><t xml:space="preserve"> </t></r><r><rPr><sz val="8"/><rFont val="Arial"/><family val="2"/></rPr><t xml:space="preserve"> =  Terlambat</t></r></si><si><t xml:space="preserve">  Rekap</t></si><si><t xml:space="preserve">Paraf Ketua Kelompok  </t></si><si><t xml:space="preserve">                               Jam selesai</t></si><si><r><t>e.</t></r><r><rPr><sz val="8"/><rFont val="Arial"/><family val="2"/></rPr><t xml:space="preserve"> Tambahan</t></r></si><si><t xml:space="preserve">                                  Jam mulai</t></si><si><r><t>d.</t></r><r><rPr><sz val="8"/><rFont val="Arial"/><family val="2"/></rPr><t xml:space="preserve"> Pengganti</t></r></si><si><t xml:space="preserve">                     Status Pertemuan</t></si><si><r><t>c.</t></r><r><rPr><sz val="8"/><rFont val="Arial"/><family val="2"/></rPr><t xml:space="preserve"> Kosong</t></r></si><si><t xml:space="preserve">                                      Tanggal</t></si><si><r><t>b.</t></r><r><rPr><sz val="8"/><rFont val="Arial"/><family val="2"/></rPr><t xml:space="preserve"> Pertukaran</t></r></si><si><t>Nama Dosen</t></si><si><t xml:space="preserve">                  Pertemuan yang ke</t></si><si><r><t>a.</t></r><r><rPr><sz val="8"/><rFont val="Arial"/><family val="2"/></rPr><t xml:space="preserve"> Sesuai Jadwal</t></r></si><si><t>KELAS 2   TEKNIK INFORMATIKA   SEMESTER 3</t></si><si><t>D A F T A R    H A D I R    K U L I A H</t></si><si><t>KELAS 1 TEKNIK INFORMATIKA  SEMESTER 1</t></si><si><t>201213001</t></si><si><t>IKEN FITRIADI</t></si><si><t>201213002</t></si><si><t>VENI APRILIA</t></si><si><t>201213003</t></si><si><t>MUHAMMAD ABDUL JAMAL</t></si><si><t>201213004</t></si><si><t>FADLI DARMAWAN</t></si><si><t>201213005</t></si><si><t>ARDI WILANTARA</t></si><si><t>201213006</t></si><si><t>RAHMA DONA FITRI</t></si><si><t>201213007</t></si><si><t>NUR SUCI DAYANA</t></si><si><t>201213008</t></si><si><t>TIARA NOVITA SARI</t></si><si><t>201213009</t></si><si><t>RINI FATMALA</t></si><si><t>201213010</t></si><si><t>SATRIA RAHMAT</t></si><si><t>201213011</t></si><si><t>RISKY YUSRONA</t></si><si><t>201213012</t></si><si><t>SARI PUPUT NOVEL</t></si><si><t>201213013</t></si><si><t>FADEL M IKRAM</t></si><si><t>201213014</t></si><si><t>MA'SHUM ABDUL JABBAR</t></si><si><t>201213015</t></si><si><t>RIDHO FAJRI</t></si><si><t>201213016</t></si><si><t>HARSUPAN DAHLIMAN</t></si><si><t>201213017</t></si><si><t>MUHAMMAD HANAFI</t></si><si><t>201213018</t></si><si><t>DENDI RAHMAN</t></si><si><t>201213019</t></si><si><t>SYAMSUL ILHAM</t></si><si><t>201213020</t></si><si><t>Khairul Anwar</t></si><si><t>201213021</t></si><si><t>Adi Putranto</t></si><si><t>Hajir Rahmi</t></si><si><t>D A F T A R    H A D I R   P R A K T I K</t></si><si><t>jazman</t></si><si><t>KKD</t></si><si><t>H</t></si><si><t>A</t></si><si><t>I</t></si></sst>
