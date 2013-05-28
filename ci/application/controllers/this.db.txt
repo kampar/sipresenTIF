@@ -1,0 +1,184 @@
+object(CI_DB_mysql_driver)#13 (73) {
+  ["dbdriver"]=>
+  string(5) "mysql"
+  ["_escape_char"]=>
+  string(1) "`"
+  ["_like_escape_str"]=>
+  string(0) ""
+  ["_like_escape_chr"]=>
+  string(0) ""
+  ["delete_hack"]=>
+  bool(true)
+  ["_count_string"]=>
+  string(19) "SELECT COUNT(*) AS "
+  ["_random_keyword"]=>
+  string(7) " RAND()"
+  ["use_set_names"]=>
+  bool(false)
+  ["ar_select"]=>
+  array(0) {
+  }
+  ["ar_distinct"]=>
+  bool(false)
+  ["ar_from"]=>
+  array(0) {
+  }
+  ["ar_join"]=>
+  array(0) {
+  }
+  ["ar_where"]=>
+  array(0) {
+  }
+  ["ar_like"]=>
+  array(0) {
+  }
+  ["ar_groupby"]=>
+  array(0) {
+  }
+  ["ar_having"]=>
+  array(0) {
+  }
+  ["ar_keys"]=>
+  array(0) {
+  }
+  ["ar_limit"]=>
+  bool(false)
+  ["ar_offset"]=>
+  bool(false)
+  ["ar_order"]=>
+  bool(false)
+  ["ar_orderby"]=>
+  array(0) {
+  }
+  ["ar_set"]=>
+  array(0) {
+  }
+  ["ar_wherein"]=>
+  array(0) {
+  }
+  ["ar_aliased_tables"]=>
+  array(0) {
+  }
+  ["ar_store_array"]=>
+  array(0) {
+  }
+  ["ar_caching"]=>
+  bool(false)
+  ["ar_cache_exists"]=>
+  array(0) {
+  }
+  ["ar_cache_select"]=>
+  array(0) {
+  }
+  ["ar_cache_from"]=>
+  array(0) {
+  }
+  ["ar_cache_join"]=>
+  array(0) {
+  }
+  ["ar_cache_where"]=>
+  array(0) {
+  }
+  ["ar_cache_like"]=>
+  array(0) {
+  }
+  ["ar_cache_groupby"]=>
+  array(0) {
+  }
+  ["ar_cache_having"]=>
+  array(0) {
+  }
+  ["ar_cache_orderby"]=>
+  array(0) {
+  }
+  ["ar_cache_set"]=>
+  array(0) {
+  }
+  ["ar_no_escape"]=>
+  array(0) {
+  }
+  ["ar_cache_no_escape"]=>
+  array(0) {
+  }
+  ["username"]=>
+  string(2) "ta"
+  ["password"]=>
+  string(2) "ta"
+  ["hostname"]=>
+  string(9) "localhost"
+  ["database"]=>
+  string(2) "ta"
+  ["dbprefix"]=>
+  string(0) ""
+  ["char_set"]=>
+  string(4) "utf8"
+  ["dbcollat"]=>
+  string(15) "utf8_general_ci"
+  ["autoinit"]=>
+  bool(true)
+  ["swap_pre"]=>
+  string(0) ""
+  ["port"]=>
+  string(0) ""
+  ["pconnect"]=>
+  bool(true)
+  ["conn_id"]=>
+  resource(27) of type (mysql link persistent)
+  ["result_id"]=>
+  resource(28) of type (mysql result)
+  ["db_debug"]=>
+  bool(true)
+  ["benchmark"]=>
+  float(0.0019540786743164)
+  ["query_count"]=>
+  int(1)
+  ["bind_marker"]=>
+  string(1) "?"
+  ["save_queries"]=>
+  bool(true)
+  ["queries"]=>
+  array(1) {
+    [0]=>
+    string(108) "SELECT * FROM dosen WHERE username LIKE 'fenty' AND password LIKE '1cdac5ad084879e80e5b67c51baa9095' LIMIT 1Selamat datang Fenty Kurnia Oktorina, ST.,MSc
+"
+  }
+  ["query_times"]=>
+  array(1) {
+    [0]=>
+    float(0.0019540786743164)
+  }
+  ["data_cache"]=>
+  array(0) {
+  }
+  ["trans_enabled"]=>
+  bool(true)
+  ["trans_strict"]=>
+  bool(true)
+  ["_trans_depth"]=>
+  int(0)
+  ["_trans_status"]=>
+  bool(true)
+  ["cache_on"]=>
+  bool(false)
+  ["cachedir"]=>
+  string(0) ""
+  ["cache_autodel"]=>
+  bool(false)
+  ["CACHE"]=>
+  NULL
+  ["_protect_identifiers"]=>
+  bool(true)
+  ["_reserved_identifiers"]=>
+  array(1) {
+    [0]=>
+    string(1) "*"
+  }
+  ["stmt_id"]=>
+  NULL
+  ["curs_id"]=>
+  NULL
+  ["limit_used"]=>
+  NULL
+  ["stricton"]=>
+  bool(false)
+}
